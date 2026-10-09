@@ -1,0 +1,4 @@
+interface:
+  display_name: "ISIR 图纸识别 / Drawing Recognition"
+  short_description: "图纸识别与 ISIR 校验 / Drawing recognition and ISIR validation"
+  default_prompt: "Use $isir-drawing-recognition to extract principal-view parameters, material, and appearance, place nearby balloons, and generate a verified workbook from the golden ISIR template."
